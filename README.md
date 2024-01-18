@@ -3,11 +3,11 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
 
 
-# 🖐️ 프로젝트 소개
+## 🖐️ 프로젝트 소개
 멋쟁이사자처럼 11기 학생들이 만든 강원대학교 백령대동제 안내 사이트입니다.
 
 
-# 👩‍👦‍🧒 프론트엔드 팀 소개
+## 👩‍👦‍🧒 프론트엔드 팀 소개
 |[👩‍💻손민주](https://github.com/mango606)|[👨‍💻심현수](https://github.com/memorial0)|[👨‍💻권순호](https://github.com/suno-boy)|
 |---|---|---|
 |`홈` `방명록` `공지사항` `함인섭광장` `대운동장` `60주념기념관` `서버 배포`|`함인섭광장`|`60주념기념관`|
@@ -16,16 +16,17 @@
 > - 개발기간: 2023.08 ~ 2023.09
 
 
-# 📱 실행 영상
+## 📱 실행 영상
 https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/a82c0bc7-61a9-4bad-9acf-0fbdb1f911ba
 
 
-# 🔗 개발 단계
+## 🔗 개발 단계
 ### 1. 기획
 ### 2. 디자인
 ### 3. 퍼블리싱
 ### 4. 기능 구현
 ### 5. 서버 배포
+
 
 ## 💡 프로젝트 기획
 타대학에서는 매년 대동제 주요 공지사항 및 관련 정보 안내 사이트를 멋쟁이사자처럼 대학에서 제작하고 있습니다.
@@ -45,6 +46,7 @@ https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/a8
 - 행사 정보 제공 및 음악 추천
 - 총학생회 공지사항 안내
 
+
 ## ✨ 프로젝트 결과
 |홈|공연 및 행사|방명록|공지사항|
 |---|---|---|---|
@@ -53,6 +55,7 @@ https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/a8
 |대운동장|함인섭광장|60주년기념관|제작자|
 |---|---|---|---|
 |<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/fd76c306-bd74-421f-9b9b-788199ed832d" width="214" height="350" />|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/7ef405dd-7814-49d4-abce-80a1ab56a233" width="214" height="350" />|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/f1782dbb-31b6-4f32-867a-5913a10e2a5a" width="214" height="350" />|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/252f7c18-04ce-4a35-a1ea-778f1620466c" width="214" height="350" />|
+
 
 ## 👏 프로젝트 배포
 ### ❤️ 축제 홍보
