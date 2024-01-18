@@ -1,4 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flikelion11-kangwon%2F2023-knu-festival-front&count_bg=%23A05DDE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Contributors](https://img.shields.io/github/contributors/mango606/2023-knu-festival-front?style=plastic)
+![Licence](https://img.shields.io/github/license/mango606/2023-knu-festival-front)
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
 
