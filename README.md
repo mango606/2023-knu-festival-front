@@ -1,58 +1,62 @@
-## 👩‍👦‍🧒 frontend team
-|손민주|심현수|권순호|
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flikelion11-kangwon%2F2023-knu-festival-front&count_bg=%23A05DDE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
+
+# 👩‍👦‍🧒 프론트엔드 팀 소개
+|[👩‍💻손민주](https://github.com/mango606)|[👨‍💻심현수](https://github.com/memorial0)|[👨‍💻권순호](https://github.com/suno-boy)|
 |---|---|---|
 |`홈` `방명록` `공지사항` `함인섭광장` `대운동장` `60주념기념관` `서버 배포`|`함인섭광장`|`60주념기념관`|
 
-## 🌟 git 작업 방법
-### 1. clone
-로컬 저장소가 없을 시: `git clone 원격 레포지토리 URL`
+> - 2023 백령대동제 (2023.09.19 ~ 2023.09.21)
+> - 개발기간: 2023.08 ~ 2023.09
 
-로컬 저장소가 이미 있을 시(최신 버전 동기화): `git pull origin main`
+# 📱 실행 영상
+https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/a82c0bc7-61a9-4bad-9acf-0fbdb1f911ba
 
-### 2. branch 작업
-`git branch 브랜치명`
+# 🔗 개발 단계
+### 1. 기획
+### 2. 디자인
+### 3. 퍼블리싱
+### 4. 기능 구현
+### 5. 서버 배포
 
-`git checkout 브랜치명`
-- mj: [@mango606](https://github.com/mango606)
-- hs: [@memorial0](https://github.com/memorial0)
-- sh: [@suno-boy](https://github.com/suno-boy)
+## 💡 프로젝트 기획
+타대학에서는 매년 대동제 주요 공지사항 및 관련 정보 안내 사이트를 멋쟁이사자처럼 대학에서 제작하고 있습니다.
+축제 정보를 찾으려면 학과 단톡방, 총학생회 인스타그램 등 여러 플랫폼에 흩어진 정보들을 직접 찾아봐야 합니다.
+저희 강원대학교 멋쟁이사자처럼 11기는 이러한 정보를 한눈에 볼 수 있는 플랫폼을 제공하기 위해 총학생회와 협력하여 모든 정보를 모은 하나의 웹 사이트 제작을 기획하였습니다.
 
-### 3. 작업물 upload
-`git add .`
+|피그마 웹 디자인|
+|---|
+|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/f6c5d360-5620-4553-acc5-dcaf7bd6cbc2" width="800" />|
 
-`git commit -m "commit message"`
 
-`git push origin 브랜치명`
+## 📂 프로젝트 주요 기능
+- 대동제 메인 테마를 연상하는 애니메이션 홈 화면
+- 주요 페이지로 이동할 수 있는 메뉴 바
+- 대운동장, 함인섭광장, 60주념기념관별 부스 및 주요 시설 위치 제공
+- 참여자 간의 원활한 소통을 위한 방명록
+- 행사 정보 제공 및 음악 추천
+- 총학생회 공지사항 안내
 
-### 4. 작업물 run
-`npm install`
+## ✨ 프로젝트 결과
+|홈|공연 및 행사|방명록|공지사항|
+|---|---|---|---|
+|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/182f0978-b2d9-42c6-8940-85a215868c80" width="214" height="350" />|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/e213587e-1035-4421-ba17-a1eef4a4e86a" width="214" height="350" />|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/da2730e8-5ab8-49c3-b8c8-08dff9bb0df9" width="214" height="350" />|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/af3059a7-0f7a-49e4-a579-0e5af0ac5fcb" width="214" height="350" />|
 
-`npm start`
+|대운동장|함인섭광장|60주년기념관|제작자|
+|---|---|---|---|
+|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/fd76c306-bd74-421f-9b9b-788199ed832d" width="214" height="350" />|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/7ef405dd-7814-49d4-abce-80a1ab56a233" width="214" height="350" />|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/f1782dbb-31b6-4f32-867a-5913a10e2a5a" width="214" height="350" />|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/252f7c18-04ce-4a35-a1ea-778f1620466c" width="214" height="350" />|
 
-`npm run lint`
+## 👏 프로젝트 배포
+### ❤️ 축제 홍보
+|[총학생회 인스타그램](https://www.instagram.com/p/CxFOU-ArRib/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA%3D%3D)|[교내 에브리타임](https://everytime.kr/380617/v/316703120)|
+|---|---|
+|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/a9684c03-3010-4711-aad4-9890cd8a22cb" width="550" height="350" />|<img src="https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/a3f89f0a-eb9c-4217-b70a-c1045e8e6117" width="350" height="350" />|
 
-## 🌟 commit message rules
-- 예시: [feat] 게시판 기능 구현
+배포 후 에브리타임 및 인스타그램, 지인 등을 통해 사용자 피드백 내용을 즉각 반영했고,
+아쉽게도 웹 사이트 방문자 수는 기록하지 못했습니다.
 
-|타입 이름|내용|
-|------|---|
-|feat|새로운 기능에 대한 커밋|
-|fix|버그 수정에 대한 커밋|
-|build|빌드 관련 파일 수정 / 모듈 설치 또는 삭제에 대한 커밋|
-|chore|그 외 자잘한 수정에 대한 커밋|
-|ci|ci 관련 설정 수정에 대한 커밋|
-|docs|문서 수정에 대한 커밋|
-|style|코드 스타일 혹은 포맷 등에 관한 커밋|
-|refactor|코드 리팩토링에 대한 커밋|
-|test|테스트 코드 수정에 대한 커밋|
-|perf|성능 개선에 대한 커밋|
-
-## 🌟 directory structure
-📁 public
-- data (mock data 관리)
-
-📁 src
-- assets (이미지, 폰트 등의 미디어 파일 저장)
-- components (공용 컴포넌트, 즉 Header 등 재사용하는 컴포넌트 관리)
-- pages (페이지 단위의 컴포넌트 폴더 관리)
-- styles (공용 css, 즉 재사용하는 스타일 관리)
+## ✍️ 프로젝트 후기
+강원대학교 학생을 대상으로 제작되어 사용자 간 OS가 달라서 생기는 문제로 인해서 애니메이션 효과 적용하는 데 어려움을 겪었습니다.
+특히, Android를 위주로 진행해서 CSS 속성 호환성 문제로 iOS에서는 opacity나 transform과 같은 속성이 적용되지 않아 -webkit-를 붙여 사용했습니다.
+SVG 이미지를 클릭하면 각 홈페이지로 이동하게 설정하기 위해 코드를 뜯어보기도 했고 이번 프로젝트를 진행하면서 배운 점이 많았습니다.
