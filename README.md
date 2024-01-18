@@ -2,6 +2,11 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
 
+
+# 🖐️ 프로젝트 소개
+멋쟁이사자처럼 11기 학생들이 만든 강원대학교 백령대동제 안내 사이트입니다.
+
+
 # 👩‍👦‍🧒 프론트엔드 팀 소개
 |[👩‍💻손민주](https://github.com/mango606)|[👨‍💻심현수](https://github.com/memorial0)|[👨‍💻권순호](https://github.com/suno-boy)|
 |---|---|---|
@@ -10,8 +15,10 @@
 > - 2023 백령대동제 (2023.09.19 ~ 2023.09.21)
 > - 개발기간: 2023.08 ~ 2023.09
 
+
 # 📱 실행 영상
 https://github.com/likelion11-kangwon/2023-knu-festival-front/assets/75062110/a82c0bc7-61a9-4bad-9acf-0fbdb1f911ba
+
 
 # 🔗 개발 단계
 ### 1. 기획
